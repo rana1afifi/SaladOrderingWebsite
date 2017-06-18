@@ -1,0 +1,2 @@
+# SaladOrderingWebsite
+This project  was developed as a part of my Software Engineering Course.  It's an online ordering website for a restaurant at our college. We approached the restaurant's owner and proposed to him the idea of building a mobile-friendly website so that students can order their salads and schedule when to pick them up from the restaurant's counter. It's based on Laravel Framework and we used BootStrap for mobile-friendliness
